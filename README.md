@@ -6,7 +6,7 @@
 
 ## Como funciona?
 
-Você procurar pokemons jogando iscas. Se for de seu interesse pode usar um ‘item’ de pokebola para captura a criatura.
+Você procura pokemons jogando iscas. Se for de seu interesse pode usar um ‘item’ de pokebola para captura a criatura.
 
 
 Este projeto foi desenvolvido para ajudar meus alunos a compreenderem conceitos importantes da programação de forma descontraída e que desperte criatividade com coisas que já estão familiarizados.
