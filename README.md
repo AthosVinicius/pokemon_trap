@@ -2,6 +2,7 @@
 
 ![cover](https://raw.githubusercontent.com/AthosVinicius/pokemon_trap/main/cover.PNG) 
 
+### EXEMPLO: [executar](https://athosvinicius.github.io/pokemon_trap/)
 
 ## Como funciona?
 
